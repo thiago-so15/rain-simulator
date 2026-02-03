@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Lluvia App",
-  description: "Aplicación creada con Next.js",
+  title: "Rain Simulator",
+  description: "Aplicación creada con Next.js que simula lluvia y tiene varios parametros de configuracion.",
 };
 
 export default function RootLayout({

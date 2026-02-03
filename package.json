@@ -2,6 +2,14 @@
   "name": "rain-simulator",
   "version": "0.1.0",
   "private": true,
+  "description": "Aplicación creada con Next.js que simula lluvia y tiene varios parametros de configuracion.",
+  "author": "Thiago Sosenke",
+  "license": "MIT",
+  "homepage": "https://github.com/thiago-so15/rain-simulator",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thiago-so15/rain-simulator.git"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
